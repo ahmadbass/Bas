@@ -1,2 +1,2 @@
 # Bas
-Nft trading game 
+Nft trading game buid on internet protocol (icp) 
